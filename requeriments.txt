@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+numpy
+opencv-python
+matplotlib
+scipy
+scikit-learn
+pandas
+google-api-python-client
+google-auth-oauthlib
+PyDrive
+google
+gdown
+glob
+Pillow
+io

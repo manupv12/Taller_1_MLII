@@ -1,0 +1,6 @@
+Point 1 is developed in the file "matrix.py"
+
+In short, the eigenvalues of A'A and AA' are the same, and the corresponding eigenvectors 
+can be obtained from the eigenvectors of A and A'. Also, the corresponding eigenvectors are 
+perpendicular to each other, which means that if x is an eigenvector of A'A and y is a corresponding eigenvector of AA', 
+then x and y are orthogonal (x'y=0)

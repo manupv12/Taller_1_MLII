@@ -1,0 +1,2 @@
+'''Eliminating or treating outliers, since PCA is based on the covariance matrix of the data,
+which measures the relationship between the different variables, which can be greatly affected by outliers'''

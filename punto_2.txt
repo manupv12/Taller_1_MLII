@@ -1,0 +1,2 @@
+Point 2, is shown when executing the "main.py" file where the app is, it is executed with the command "uvicorn main:app --reload", then in the navigator, introduce this url: "http://127.0.0.1:8000/images-and-string"
+The distance is calculated with a Euclidean norm that calculates distance as the square root of the subtraction of each term squared, from my image and the average image.

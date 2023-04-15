@@ -1,0 +1,6 @@
+Es un modelo generativo probabilistico de aprendizaje automatio y procesamiento de lenguaje natural 
+para encontrar los temas latentes presentes en documentos. Sus principios matemáticos se basan en la 
+teoria de probabilidad y la estadistica. Se modela como un proceso de 3 capas: capa de tema donde se 
+modelan las distribuciones de palabras, capa de mezcla de tema donde se modela la mezcla de temas para
+cada documento, capa de generacion de palabras, se modela a partir de las distribuiciones de palabras 
+en los temas y la mezcla de temas en el documento. Utiliza la distribucion de probabilidad de Dirichlet

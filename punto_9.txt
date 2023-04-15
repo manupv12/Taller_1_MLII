@@ -1,0 +1,9 @@
+UMAP is a nonlinear dimensionality reduction method that
+seeks to take the data to a space of smaller dimensions and be able to visualize it.
+It has 3 key principles that are:
+
+The data is uniformly distributed on a Riemannian manifold.
+
+The Riemannian metric is locally constant (or can be approximated as such).
+
+The variety is locally connected.
